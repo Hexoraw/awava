@@ -9,4 +9,5 @@
 
 ## Commands
 
+* [Commands](commands/commands.md)
 * [/Ping](commands/ping.md)
