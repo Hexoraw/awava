@@ -9,7 +9,7 @@ coverY: 0
 Welcome to the official Awava Documentation! Here you'll get an overview of all the amazing features Awava has to offer to help you build an beautiful and interactive server with Awava.
 
 {% hint style="warning" %}
-Awava is a personnal/free project developed by Auradomix. This documentation may be incompleted and the bot may lack features. A lot of bugs can occur, **do not use Awava as a security/important bot**.
+Awava is a personnal/free project developed by Auradomix. This documentation may be incompleted and the bot may lack features. A lot of bugs can occur, **do not use Awava as a important bot with server security**. Support is limited.
 {% endhint %}
 
 ### Jump right in
