@@ -12,9 +12,9 @@ description: >-
 {% step %}
 The ping command doesn't has any input value, just type in the base command.
 
-| command | value   |
-| ------- | ------- |
-| /ping   | \<none> |
+| command | value    |
+| ------- | -------- |
+| `/ping` | `<none>` |
 {% endstep %}
 
 {% step %}
