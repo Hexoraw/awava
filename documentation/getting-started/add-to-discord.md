@@ -1,5 +1,5 @@
 ---
-icon: plus-large
+icon: discord
 description: The first step, as you may have guessed, is adding the bot to the server.
 ---
 
