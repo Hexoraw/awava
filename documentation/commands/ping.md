@@ -6,8 +6,6 @@ description: >-
 
 # /Ping
 
-## Usage of /ping
-
 {% stepper %}
 {% step %}
 The ping command doesn't has any input value, just type in the base command.
