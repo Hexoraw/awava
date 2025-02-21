@@ -1,6 +1,6 @@
 ---
 description: >-
-  Ping is a testing commands most bots will have to test the respond latency
+  Ping is a testing command most bots will have to test the respond latency
   (time it takes for the request to process and come back)
 ---
 
