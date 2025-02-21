@@ -18,7 +18,7 @@ The ping command doesn't has any input value, just type in the base command.
 {% endstep %}
 
 {% step %}
-The bot will return the time the request took (latency) in milliseconds (ms)
+The bot will return the latency in milliseconds (ms)
 
 > Ping : 2ms
 {% endstep %}
