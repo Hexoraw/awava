@@ -6,7 +6,11 @@ coverY: 0
 
 # Welcome
 
-Welcome to the official Awava Documentation! Here you'll get an overview of all the amazing features Awava has to offer to help you build an beautiful and interactive server with Awava.
+Welcome to the official Awava Documentation! Here you'll get an overview of all the amazing features Awava has to offer to help you build a beautiful and interactive server with Awava.
+
+For user in an existing server with Awava, you can head to the "commands" page to see the available features
+
+For new user looking to add Awava to their own server, you can head to the "Adding to Discord" page
 
 {% hint style="warning" %}
 Awava is a personnal/free project developed by Auradomix. This documentation may be incompleted and may lack features. Some bugs can occur, **never use an non-stable version of Awava as an important part of your server security**, you can always use the /version command to find if your version is stable or not. Support is very limited, access it from the menu on the website.
