@@ -8,7 +8,7 @@ description: >-
 
 {% stepper %}
 {% step %}
-The ping command doesn't has any input value, just type in the base command.
+#### The ping command doesn't need any input value, just type in the base command
 
 | command | value    |
 | ------- | -------- |
@@ -16,7 +16,7 @@ The ping command doesn't has any input value, just type in the base command.
 {% endstep %}
 
 {% step %}
-The bot will return the latency in milliseconds (ms)
+#### The bot will return the latency in milliseconds (ms)
 
 > Ping : 2ms
 {% endstep %}
