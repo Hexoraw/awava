@@ -8,7 +8,7 @@ description: >-
 
 {% stepper %}
 {% step %}
-#### The ping command doesn't need any input value, just type in the base command
+#### Ping-ing doesn't require an input value, just type in the base command
 
 | command | value    |
 | ------- | -------- |
