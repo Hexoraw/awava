@@ -18,6 +18,8 @@ description: >-
 {% step %}
 #### The bot will return the latency in milliseconds (ms)
 
+_Example :_
+
 > Ping : 2ms
 {% endstep %}
 {% endstepper %}

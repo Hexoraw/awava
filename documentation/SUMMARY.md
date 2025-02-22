@@ -6,11 +6,9 @@
 
 * [Adding to Discord](getting-started/add-to-discord.md)
 * [Permissions](getting-started/permissions.md)
-
-***
-
-* [Commands](commands.md)
+* [Commands](getting-started/commands.md)
 
 ## Other Commands
 
 * [/Ping](other-commands/ping.md)
+* [/Version](other-commands/ping-1.md)

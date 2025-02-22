@@ -17,7 +17,7 @@ The current version of Awava is extremly unstable. We strongly recommend not rel
 
 <summary>For existing users in a server with Awava</summary>
 
-Head to the [commands ](commands.md)page to see all the available commands Awava as to offer
+Head to the [commands ](getting-started/commands.md)page to see all the available commands Awava as to offer
 
 </details>
 
@@ -35,4 +35,4 @@ Awava is a personnal project developed by Auradomix. **This documentation may be
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adding to Discord</strong></td><td>Adding the bot to your Discord server</td><td><a href="getting-started/add-to-discord.md">add-to-discord.md</a></td></tr><tr><td><strong>Permissions</strong></td><td>Giving the bot the right permissions is necessary for the bot to work correctly</td><td><a href="getting-started/permissions.md">permissions.md</a></td></tr><tr><td><strong>Commands</strong></td><td>A helpful list of the available commands you can use to interact with the bot</td><td><a href="commands.md">commands.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adding to Discord</strong></td><td>Adding the bot to your Discord server</td><td><a href="getting-started/add-to-discord.md">add-to-discord.md</a></td></tr><tr><td><strong>Permissions</strong></td><td>Giving the bot the right permissions is necessary for the bot to work correctly</td><td><a href="getting-started/permissions.md">permissions.md</a></td></tr><tr><td><strong>Commands</strong></td><td>A helpful list of the available commands you can use to interact with the bot</td><td><a href="getting-started/commands.md">commands.md</a></td></tr></tbody></table>
