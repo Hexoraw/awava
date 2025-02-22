@@ -1,19 +1,36 @@
 ---
 icon: hand-wave
+description: Welcome to the official Awava Documentation!
 cover: .gitbook/assets/AwavaSplash_Original_16x9.png
 coverY: 0
 ---
 
 # Welcome
 
-Welcome to the official Awava Documentation! Here you'll get an overview of all the amazing features Awava has to offer to help you build a beautiful and interactive server with Awava.
+Awava is a free management and security bot for Discord servers. Here you'll get an overview of all the amazing features it has to offer to help you build an interactive and safe community for your servers.
 
-For user in an existing server with Awava, head to the "commands" page to see the available features
+{% hint style="danger" %}
+The current version of Awava is extremly unstable. We strongly recommend not relying on its services until a stable version comes out. _Awava might be offline during this time which would make all the services not accessible._ Access to the [status page](https://awava.xyz/status) to see the availability.
+{% endhint %}
 
-For new user looking to add Awava to their own server, head to the "Adding to Discord" page
+<details>
+
+<summary>For existing users in a server with Awava</summary>
+
+Head to the [commands ](commands.md)page to see all the available commands Awava as to offer
+
+</details>
+
+<details>
+
+<summary>For user looking to add Awava to their own server</summary>
+
+Head to the [Adding to Discord](getting-started/add-to-discord.md) page to get started with Awava
+
+</details>
 
 {% hint style="warning" %}
-Awava is a personnal/free project developed by Auradomix. This documentation may be incompleted and may lack features. Some bugs can occur, **never use an non-stable version of Awava as an important part of your server security**, you can always use the /version command to find if your version is stable or not. Support is very limited, access it from the menu on the website.
+Awava is a personnal project developed by Auradomix. **This documentation may be incompleted and may lack features.** Support is very limited but still can be accessed from the top menu on the [Awava website](https://awava.xyz/).
 {% endhint %}
 
 ### Jump right in
