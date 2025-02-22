@@ -17,7 +17,7 @@ The current version of Awava is extremly unstable. We strongly recommend not rel
 
 <summary>For existing users in a server with Awava</summary>
 
-Head to the [commands ](getting-started/commands.md)page to see all the available commands Awava as to offer
+Head to the [commands](getting-started/commands.md) page to see all the available commands Awava as to offer
 
 </details>
 

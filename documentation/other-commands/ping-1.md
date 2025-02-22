@@ -22,6 +22,6 @@ _Example :_
 >
 > Version 0.1.12-beta
 
-_The first number means "Major" update number, second is "Minor" update and third is "Patch" update. A developpement stage can be added too. Visit this_ [_page_ ](https://en.wikipedia.org/wiki/Software_versioning)_if you want to learn more about versioning._
+_The first number means "Major" update number, second is "Minor" update and third is "Patch" update. A developpement stage can be added too. Visit this_ [_page_](https://en.wikipedia.org/wiki/Software_versioning) _if you want to learn more about versioning._
 {% endstep %}
 {% endstepper %}
