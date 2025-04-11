@@ -1,6 +1,6 @@
 ---
-icon: hand-wave
 description: Welcome to the official Awava Documentation!
+icon: hand-wave
 cover: .gitbook/assets/AwavaSplash_Original_16x9.png
 coverY: 0
 ---
@@ -11,6 +11,10 @@ Awava is a free management and security bot for Discord servers. Here you'll get
 
 {% hint style="danger" %}
 The current version of Awava is extremly unstable. We strongly recommend not relying on its services until a stable version comes out. _Awava might be offline during this time which would make all the services not accessible._ Access to the [status page](https://awava.xyz/status) to see the availability.
+{% endhint %}
+
+{% hint style="warning" %}
+Awava is a personnal project developed by Auradomix. **This documentation may be incompleted and may lack features.** Support is very limited but you still can contact using the [**support@awava.xyz**](mailto:support@awava.xyz) email or by using the 'support' button from the top menu on the [**Awava website**](https://awava.xyz/).
 {% endhint %}
 
 <details>
@@ -28,10 +32,6 @@ Head to the [commands](getting-started/commands.md) page to see all the availabl
 Head to the [Adding to Discord](getting-started/add-to-discord.md) page to get started with Awava
 
 </details>
-
-{% hint style="warning" %}
-Awava is a personnal project developed by Auradomix. **This documentation may be incompleted and may lack features.** Support is very limited but still can be accessed from the top menu on the [Awava website](https://awava.xyz/).
-{% endhint %}
 
 ### Jump right in
 
