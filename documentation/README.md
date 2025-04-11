@@ -10,7 +10,7 @@ coverY: 0
 Awava is a free management and security bot for Discord servers. Here you'll get an overview of all the amazing features it has to offer to help you build an interactive and safe community for your servers.
 
 {% hint style="danger" %}
-The current version of Awava is extremly unstable. We strongly recommend not relying on its services until a stable version comes out. _Awava might be offline during this time which would make all the services not accessible._ View the current status of Awava with the [**status page**](https://awava.xyz/status).
+The current version of Awava is extremly unstable. We strongly recommend not relying on its services until a stable version comes out. _Awava might be offline anytime which would make all the services not accessible._ View the current status of Awava with the [**status page**](https://awava.xyz/status).
 {% endhint %}
 
 {% hint style="warning" %}
